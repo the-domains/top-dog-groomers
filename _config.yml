@@ -1,5 +1,4 @@
-favicon: null
-name: Top Dog Groomers
+layout_spectrum: 0
 opengraph:
   image: null
   type: null
@@ -20,21 +19,22 @@ purpose: []
 color:
   saturation: 0.05064384336583316
   brandStrength: 0.007517962483689189
-  rhythmicContrast: 0.203498174669221
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
   lightness: 0.236534669296816
+  brandColors:
+    - '#FCFBE5'
+    - '#EAEE25'
+    - '#D918E3'
+    - '#34D8E4'
+    - '#FC1A1E'
+  rhythmicContrast: 0.203498174669221
 typography_spectrum: 0.1979408990591764
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Top Dog Groomers
