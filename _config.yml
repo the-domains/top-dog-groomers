@@ -1,7 +1,7 @@
 name: Top Dog Groomers
 favicon: null
-layout_spectrum: 0.37478321767412126
-typography_spectrum: 0.19794089905917645
+layout_spectrum: 0.5559
+typography_spectrum: 0.77212
 title: Top Dog Groomers Peluqueria Canina
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.007517962483689189
-  lightness: 0.236534669296816
-  saturation: 0.05064384336583316
-  rhythmicContrast: 0.20349817466922104
+    - '#ffffff'
+    - '#b600fa'
+    - '#009dfc'
+    - '#000000'
+    - '#ff7b00'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
