@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Top Dog Groomers]]></title>
+        <description><![CDATA[Top Dog Groomers]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 15:16:50 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c15ccdc-7524-41d9-8398-1758fbba1673.jpg">]]></description>
+            <link>undefined85070cb3-2df3-49da-9755-7b7726915fff/index.html</link>
+            <guid isPermaLink="false">85070cb3-2df3-49da-9755-7b7726915fff</guid>
+            <pubDate>Mon, 18 Jan 2016 15:16:50 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
