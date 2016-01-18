@@ -1,29 +1,40 @@
-name: Top Dog Groomers
 favicon: null
-layout_spectrum: 0.5559
-typography_spectrum: 0.77212
-title: Top Dog Groomers Peluqueria Canina
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Top Dog Groomers
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#b600fa'
-    - '#009dfc'
-    - '#000000'
-    - '#ff7b00'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.05064384336583316
+  brandStrength: 0.007517962483689189
+  rhythmicContrast: 0.203498174669221
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  lightness: 0.236534669296816
+typography_spectrum: 0.1979408990591764
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
