@@ -2,7 +2,7 @@ name: Top Dog Groomers
 favicon: null
 layout_spectrum: 0.28256
 typography_spectrum: 0.1979408990591764
-title: null
+title: ' '
 collections:
   - index:
       path: /
