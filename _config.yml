@@ -14,7 +14,7 @@ collections:
       number: 10
 color:
   saturation: 0.5860214
-  brandStrength: 0.5
+  brandStrength: 0.9814815
   lightness: 0.5919952
   brandColors:
     - '#FCFBE5'
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Top Dog Groomers
 favicon: null
+name: Top Dog Groomers
 opengraph:
   image: null
   type: null
