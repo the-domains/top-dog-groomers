@@ -1,5 +1,8 @@
+name: Top Dog Groomers
+favicon: null
+layout_spectrum: 0.8273596
+typography_spectrum: 0.40161
 title: ' '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5860214
-  brandStrength: 0.4175627
-  lightness: 0.5919952
   brandColors:
     - '#FCFBE5'
     - '#EAEE25'
     - '#D918E3'
     - '#34D8E4'
     - '#FC1A1E'
-  rhythmicContrast: 0.8213859
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Top Dog Groomers
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.40161
-layout_spectrum: 0.8273596
+  brandStrength: 0.625
+  lightness: 0.125
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
