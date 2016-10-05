@@ -1,8 +1,34 @@
+typography_spectrum: 0.3725820172112435
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.5729968824889511
+  lightness: 0.9821659373119473
+  saturation: 0.5470671411603689
+  rhythmicContrast: 0.7278565231245011
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0368b32d-65bf-49d3-90b2-a772c6424ee1.jpg
+  type: Facebook
+  appId: '355739404513850'
+layout_spectrum: 0.24145477241836488
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/5578798f-5c0c-4f70-86d1-ebad931c6ac5.psd
 name: Top Dog Groomers
+cta:
+  domain: null
+  bucket: null
+  version: null
 favicon: null
-layout_spectrum: 0.8273596
-typography_spectrum: 0.40161
-title: ' '
 collections:
   - index:
       path: /
@@ -15,27 +41,9 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#FCFBE5'
-    - '#EAEE25'
-    - '#D918E3'
-    - '#34D8E4'
-    - '#FC1A1E'
-  brandStrength: 0.5
-  lightness: 0.8125
-  saturation: 0.3125
-  rhythmicContrast: 0.5
-purpose: []
+title: ' Peluqueria Canina'
+description: Top Dog Groomers
+purpose:
+  - type: contact
+    url: 'tel:670 75 75 75'
+    label: Call 670 75 75 75
