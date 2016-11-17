@@ -1,4 +1,3 @@
-layout_spectrum: 0.4139495274834888
 typography_spectrum: 0.19283729036495384
 color:
   brandColors:
@@ -17,6 +16,7 @@ opengraph:
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/0368b32d-65bf-49d3-90b2-a772c6424ee1.jpg
   type: Facebook
   appId: '355739404513850'
+layout_spectrum: 0.4139495274834888
 analytics:
   google: null
   facebook: null
@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Mapa GPS Direccion
+    id: ea6eae51-4691-4aea-9f28-1c0c78bf3ec6
+    type: content
 favicon: null
 collections:
   - index:
@@ -41,8 +45,9 @@ collections:
     permalink:
       path: '/:title/'
 title: ' Peluqueria Canina'
+content: []
 description: Top Dog Groomers
 purpose:
   - type: contact
-    url: 'tel:670 75 75 75'
+    url: 'tel:670757575'
     label: Call 670 75 75 75
