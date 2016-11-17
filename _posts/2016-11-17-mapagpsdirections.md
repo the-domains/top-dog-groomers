@@ -1,16 +1,17 @@
 ---
-datePublished: '2016-11-17T19:34:47.013Z'
+datePublished: '2016-11-17T19:36:03.969Z'
 inFeed: true
-isBasedOnUrl: 'https://the-grid.github.io/ed-location/?latitude=20&longitude=-35&zoom=16'
 author: []
 via: {}
-dateModified: '2016-11-17T19:31:51.814Z'
+dateModified: '2016-11-17T19:36:03.093Z'
 title: ''
 publisher: {}
 description: Mapa/GPS/Directions
-starred: false
 sourcePath: _posts/2016-11-17-mapagpsdirections.md
-_type: MediaObject
+hasPage: true
+starred: false
+url: mapagpsdirections/index.html
+_type: Article
 
 ---
 <iframe src="https://the-grid.github.io/ed-location/?latitude=20&amp;longitude=-35&amp;zoom=17" style=""></iframe>
