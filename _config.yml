@@ -1,53 +1,53 @@
-layout_spectrum: 0.8138749541358857
-typography_spectrum: 0.4292194691844432
-color:
-  brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 0.7732797072262568
-  lightness: 0.41705208639743374
-  saturation: 0.9897745808214871
-  rhythmicContrast: 0.9979991953092452
+title: ' Peluqueria Canina'
+content: []
 github: true
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0368b32d-65bf-49d3-90b2-a772c6424ee1.jpg
-  type: Facebook
-  appId: '355739404513850'
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-logo: null
-name: Top Dog Groomers
-cta:
-  domain: null
-  bucket: null
-  version: null
-navigation:
-  - name: Mapa GPS Direccion
-    id: ea6eae51-4691-4aea-9f28-1c0c78bf3ec6
-    type: content
-favicon: null
+purpose:
+  - type: contact
+    url: 'tel:670757575'
+    label: Call 670 75 75 75
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: ' Peluqueria Canina'
-content: []
 description: Top Dog Groomers
-purpose:
-  - type: contact
-    url: 'tel:670757575'
-    label: Call 670 75 75 75
+color:
+  saturation: 0.9897745808214871
+  brandStrength: 0.7732797072262568
+  rhythmicContrast: 0.9979991953092452
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  lightness: 0.4170520863974337
+navigation:
+  - name: Mapa GPS Direccion
+    id: ea6eae51-4691-4aea-9f28-1c0c78bf3ec6
+    type: content
+cta:
+  bucket: null
+  version: null
+  domain: null
+name: Top Dog Groomers
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/0368b32d-65bf-49d3-90b2-a772c6424ee1.jpg
+  type: Facebook
+  appId: '355739404513850'
+logo: null
+typography_spectrum: 0.7401433
+layout_spectrum: 0.448626
